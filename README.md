@@ -32,5 +32,4 @@ Este proyecto corresponde a una investigación formativa en el curso de Física 
 
 ---
 
-## 📦 Estructura del proyecto
 
